@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width= "400"
+<img align="right" alt="coding" width= "300"
 src="https://i.imgur.com/rHlEdDq.gif">
 
 - 🌱 I’m currently learning **JavaScript**
